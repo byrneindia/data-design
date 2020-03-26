@@ -7,7 +7,7 @@
 </head>
 <body>
 <h2>User Persona:</h2>
-<img src="Frugal%20Penny.jpg"</>
+<img src=BudgetBytes ERD.png</>
    <li><strong>Name:</strong> Penny Pinching</li>
 	<li><strong>Age:</strong> 22</li>
 	<li><strong> Gender:</strong> Female</li>
